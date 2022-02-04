@@ -1,6 +1,6 @@
 # Huberman Labs eBook creator
 
-This is a project which processes files downloaded from the YouTube
+This is a project which processes transcripts downloaded from the YouTube
 channel of the [Huberman Lab](https://hubermanlab.com/) podcast and 
 converts them into Markdown. These Markdown files can then be processed
 and turned into an epub eBook which can then be read offline.

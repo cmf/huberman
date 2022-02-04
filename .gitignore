@@ -1,0 +1,9 @@
+/.cpcache/
+/.idea/
+/.nrepl-port
+/???. *.md
+*.description
+*.vtt
+
+/huberman.epub
+/huberman.iml
